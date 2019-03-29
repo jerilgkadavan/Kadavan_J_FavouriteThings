@@ -1,9 +1,10 @@
-# MY FAVOURITE THREE ANIMATION MOVIES
+# MY FAVOURITE THINGS
+#### NodeJS with Express and SQL
 
 
 ![image](public/images/webpic.JPG)
 
-## TO Start The App
+## To Start The App
 -  in Terminal run `npm start`
 - go to `localhost:3000`
 
