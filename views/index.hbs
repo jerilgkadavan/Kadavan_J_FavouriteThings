@@ -1,11 +1,11 @@
-<section id="heroes">
-    {{#each avatars}}
-    <div class="hero-container">
-        <a href="/{{name}}">
-        <img src="/images/{{avatar}}" alt="avatar">
+<section class="row">
+    {{#each movies}}
+    <div class="overlay-link">
+        <a href="/{{movie_id}}">
+        <img src="/images/{{movie_img}}" alt="avatar" id="dragon">
         </a>
 
-        <h3 class="hero-name">{{name}} </h3>
+        <h3>{{movie_name}} </h3>
     </div>
 
     {{/each}}
