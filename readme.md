@@ -1,10 +1,10 @@
 # MY FAVOURITE THREE ANIMATION MOVIES
 
 
-![image](public/images/webpick.JPG)
+![image](public/images/webpic.JPG)
 
-## Notes
-- to start the app in Terminal, use `npm start`
+## TO Start The App
+-  in Terminal run `npm start`
 - go to `localhost:3000`
 
 ## Tools used
